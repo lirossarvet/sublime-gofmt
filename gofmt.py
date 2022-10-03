@@ -24,7 +24,7 @@ OPTIONAL_VARS = [
     'GOROOT',
     'GOROOT_FINAL',
 ]
-REQUIRED_VARS = ['GOPATH']
+REQUIRED_VARS = []
 
 ERROR_TEMPLATE = """
 <div><b>{row}:</b> {text}</div>
